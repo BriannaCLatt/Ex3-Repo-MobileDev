@@ -1,2 +1,3 @@
 # Ex3-Repo-MobileDev
-Example 3 Repository - Creating Git Repo from Scratch
+
+"It is said that good things come to those who wait. I believe that good things come to those who work." - Wilt Chamberlain
